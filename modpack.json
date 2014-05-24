@@ -45,6 +45,20 @@
 					"mods/InventoryTweaks*"
 				]
 			}
+		},
+		{
+			"properties": {
+				"name": "Shaders",
+				"description": "Improves the graphics. Only works on highend graphic adapters.",
+				"recommendation": "avoid",
+				"selected": false
+			},
+			"files": {
+				"include": [
+					"mods/Shaders*",
+					"shaderpacks/*"
+				]
+			}
 		}
 	]
 }
