@@ -1,0 +1,12 @@
+{
+	"minimumVersion": 1,
+	"packages": [
+		{
+			"name": "Shancraft",
+			"title": "Shancraft 1.25",
+			"version": "1.25",
+			"location": "modpack/manifest.json",
+			"priority": 1
+		}
+	]
+}
