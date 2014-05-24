@@ -19,6 +19,19 @@
 					"config/Opis"
 				]
 			}
+		},
+		{
+			"properties": {
+				"name": "Zan's Minimap",
+				"description": "Zan’s Minimap (also known as VoxelMap) adds a fully functional minimap on the right corner of your screen.",
+				"recommendation": "starred",
+				"selected": true
+			},
+			"files": {
+				"include": [
+					"mods/Zans*"
+				]
+			}
 		}
 	]
 }
