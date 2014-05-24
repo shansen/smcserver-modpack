@@ -32,6 +32,19 @@
 					"mods/Zans*"
 				]
 			}
+		},
+		{
+			"properties": {
+				"name": "Inventory Tweaks",
+				"description": "This mod allows you to easily manage your inventory. It works out of the box, and will make you gain a massive amount of time!",
+				"recommendation": "starred",
+				"selected": true
+			},
+			"files": {
+				"include": [
+					"mods/InventoryTweaks*"
+				]
+			}
 		}
 	]
 }
