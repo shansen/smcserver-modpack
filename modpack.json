@@ -1,8 +1,24 @@
 {
 	"name": "Shancraft",
-	"name": "Shancraft",
+	"title": "Shancraft",
 	"gameVersion": "1.6.4",
 	"launch": {
 		"flags": []
-	}
+	},
+	"features": [
+		{
+			"properties": {
+				"name": "Opis",
+				"description": "The server admin companion cube.",
+				"recommendation": "avoid",
+				"selected": false
+			},
+			"files": {
+				"include": [
+					"mods/Opis*",
+					"config/Opis"
+				]
+			}
+		}
+	]
 }
