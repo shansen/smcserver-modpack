@@ -1,6 +1,6 @@
 {
-	"name": "Shancraft",
-	"title": "Shancraft",
+	"name": "SMC Server",
+	"title": "SMC Server",
 	"gameVersion": "1.6.4",
 	"launch": {
 		"flags": []
