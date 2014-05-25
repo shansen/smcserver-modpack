@@ -3,8 +3,8 @@
 	"packages": [
 		{
 			"name": "Shancraft",
-			"title": "Shancraft 1.45",
-			"version": "1.45",
+			"title": "Shancraft 1.46",
+			"version": "1.46",
 			"location": "modpack/manifest.json",
 			"priority": 1
 		}
