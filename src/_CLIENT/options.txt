@@ -1,1 +1,1 @@
-skin:Shantex.zip
+skin:Soartex_Universal.zip

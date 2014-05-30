@@ -59,6 +59,32 @@
 					"shaderpacks/*"
 				]
 			}
+		},
+		{
+			"properties": {
+				"name": "Optifine",
+				"description": "Allows Minecraft to run faster and look better with full support for HD textures and many configuration options.",
+				"recommendation": "starred",
+				"selected": true
+			},
+			"files": {
+				"include": [
+					"mods/OptiFine*"
+				]
+			}
+		},
+		{
+			"properties": {
+				"name": "Soartex",
+				"description": "Soartex Fanver, a fan continuation of Soar49's Soartex, brings smooth and clean textures to Minecraft.",
+				"recommendation": "starred",
+				"selected": true
+			},
+			"files": {
+				"include": [
+					"resourcepacks/*"
+				]
+			}
 		}
 	]
 }
