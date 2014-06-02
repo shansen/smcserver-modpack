@@ -3,8 +3,8 @@
 	"packages": [
 		{
 			"name": "SMC Server",
-			"title": "SMC Server 1.67",
-			"version": "1.67",
+			"title": "SMC Server 1.68",
+			"version": "1.68",
 			"location": "modpack/manifest.json",
 			"priority": 1
 		}
