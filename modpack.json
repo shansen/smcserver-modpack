@@ -85,6 +85,19 @@
 					"resourcepacks/*"
 				]
 			}
+		},
+		{
+			"properties": {
+				"name": "TiC Tooltips",
+				"description": "A simple client-side add-on for Tinkers' Construct that adds relevant stats to all tool and tool part tooltips.",
+				"recommendation": "starred",
+				"selected": true
+			},
+			"files": {
+				"include": [
+					"mods/TiCTooltips*"
+				]
+			}
 		}
 	]
 }
