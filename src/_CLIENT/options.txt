@@ -1,1 +1,2 @@
 skin:Soartex.zip
+guiScale:2
