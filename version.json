@@ -1,6 +1,10 @@
 {
-	"minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets} --tweakClass cpw.mods.fml.common.launcher.FMLTweaker",
+	"minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets} --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker",
 	"libraries": [
+		{
+			"name": "com.mumfrey:liteloader:1.6.4",
+			"url": "http://dl.liteloader.com/versions/"
+		},
 		{
 			"url": "http://files.minecraftforge.net/maven/",
 			"name": "net.minecraftforge:minecraftforge:9.11.1.965"
